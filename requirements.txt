@@ -1,4 +1,5 @@
 streamlit
 streamlit-autorefresh
-websockets==12.*
+websockets
+
 pyaudio
